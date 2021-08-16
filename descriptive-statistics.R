@@ -1,5 +1,5 @@
 ##########################################################################################################
-# Author: ADI Junior																					                                           #
+# Author: ADI Junior	<Rootoor | Rootoor225>									                                           #
 # Date : August, 15th 2021  - 00:43																		                                   #
 # Name : PracticeR | LearnR																			                                         #
 # Description : R code for practicing  Data Analysis / Data Science / Machine Learning /				         #
