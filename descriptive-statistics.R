@@ -1,13 +1,14 @@
 ##########################################################################################################
-# Author: ADI Junior																					 #
-# Date : August, 15th 2021  - 00:43																		 #
-# Name : PracticeR																					     #
-# Description : R code for practicing  Data Analysis / Data Science / Machine Learning /				 #
-# R version 4.0.3 																					     #																					 #
-# source the code to be executed. E.g : source("C:\\R\\tuto\\adi-stat-desc.R"); ls()					 #	
-# Or copy and paste in R terminal console to be executed		            							 #	
+# Author: ADI Junior																					                                           #
+# Date : August, 15th 2021  - 00:43																		                                   #
+# Name : PracticeR | LearnR																			                                         #
+# Description : R code for practicing  Data Analysis / Data Science / Machine Learning /				         #
+# R version 4.0.3 																					                                             #								
+# source the code to be executed. E.g : source("C:\\R\\tuto\\adi-stat-desc.R"); ls()        			       #	
+# or open the script via menu, and CTRL+R to execute the instructions of this script line by line, 1by1  #
+# Or copy and paste in R terminal console to be executed		            							                   #	
 ##########################################################################################################
-#
+
 # destruction des donnees existantes ou preexistantes
 rm(list=ls(all=TRUE))
 #####################################################
